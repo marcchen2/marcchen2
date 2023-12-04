@@ -21,6 +21,7 @@ A common problem in ML finance research is the availability of asset return data
 
 #### Currently working on:
 
-- 
+- Consulting project for a startup genomics imaging company: Adapting the [AtacWorks](https://github.com/NVIDIA-Genomics-Research/AtacWorks) deep learning package for denoising genomic sequencing data for the company's proprietary data. 
 
 - Cleaning up the code I wrote for my undergraduate thesis: Leveraging the Bing Maps API to create an index of transit accessibility in urban areas. 
+
