@@ -3,7 +3,7 @@
 - I'm currently a visiting ML researcher at the University of Waterloo, where I support the computational finance research of Profs. [Yuying Li](https://cs.uwaterloo.ca/~yuying/) and [Peter Forsyth](https://cs.uwaterloo.ca/~paforsyt/).
 - I recently graduated from uWaterloo with a Master of Mathematics in Data Science, and completed my thesis, titled ["A Robust NN Approach to Optimal Decumulation and Factor Investing"](https://uwspace.uwaterloo.ca/handle/10012/19874).
 - My co-authored ML finance research has been submitted to the Journal of Applied Mathematics and Computation, and is available [as a pre-print](https://arxiv.org/abs/2306.10582). 
-- On this personal Github, I share select projects from my research experiences and independent side projects.
+- On this personal Github, I share select data science projects from outside my professional work.
 
 ### Highlighted Projects:
 
@@ -24,4 +24,4 @@ A common problem in ML finance research is the availability of asset return data
 - Consulting for a startup genomics imaging company: Creating custom implementation of the [AtacWorks](https://github.com/NVIDIA-Genomics-Research/AtacWorks) deep learning package into the company's workflow to de-noise genomic sequencing data, increasing the robustness of the company's imaging products. (In progress since November 2023).
 
 #### Mapping transit accessibilty for the Nashville Metro Planning Authority 
--  For my undergraduate economics thesis, I consulted for the Nashville MPO to help them understand the impact of transit access on labor market participation in the Nashville region. I leveraged the Bing Maps API to create an index of transit accessibility in urban areas. I built a segmented regression to analyze this index's impact on labor force participation rates within disparate income groups. [Thesis](https://ir.vanderbilt.edu/handle/1803/10359). [Vanderbilt News Article](https://news.vanderbilt.edu/2017/04/28/class-of-2017-marc-chen/).
+-  For my undergraduate economics thesis, I consulted for the Nashville MPO to help them understand the impact of transit access on labor market participation in the Nashville region. I leveraged the Bing Maps API to create an index of transit accessibility in urban areas. I then developed a segmented regression to analyze this index's impact on labor force participation rates within disparate income groups. [Thesis](https://ir.vanderbilt.edu/handle/1803/10359). [Vanderbilt University News Article](https://news.vanderbilt.edu/2017/04/28/class-of-2017-marc-chen/).
