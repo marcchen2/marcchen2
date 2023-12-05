@@ -19,9 +19,9 @@
 
 A common problem in ML finance research is the availability of asset return data. The single realized historical path is insufficient for robust training of ML investment recommendation models. It is therefore necessary to generate additional time series data with similar statistical properties as real assets' return paths. One of the methods most widely accepted to be the gold standard by finance practioners is stationary block bootstrapping (Patton et al., 2009) of historical return data. This repo implements the method in Python and Numpy (PyTorch version forthcoming). This tool was implemented as part of a larger ML pipeline I implemented to create optimal portfolio management strategies for my Masters research.
 
-#### Currently working on:
 
-- Consulting project for a startup genomics imaging company: Adapting the [AtacWorks](https://github.com/NVIDIA-Genomics-Research/AtacWorks) deep learning package for denoising genomic sequencing data for the company's proprietary data. 
+#### De-noising genomic sequencing data with Residual Networks
+- Consulting for a startup genomics imaging company: Creating custom implementation of the [AtacWorks](https://github.com/NVIDIA-Genomics-Research/AtacWorks) deep learning package into the company's workflow to de-noise genomic sequencing data, increasing the robustness of the company's imaging products. (In progress since November 2023).
 
-- Cleaning up the code I wrote for my undergraduate thesis: Leveraging the Bing Maps API to create an index of transit accessibility in urban areas. 
-
+#### Mapping transit accessibilty for the Nashville Metro Planning Authority 
+-  For my undergraduate economics thesis, I consulted for the Nashville MPO to help them understand the impact of transit access on labor market participation in the Nashville region. I leveraged the Bing Maps API to create an index of transit accessibility in urban areas. I built a segmented regression to analyze this index's impact on labor force participation rates within disparate income groups. [Thesis](https://ir.vanderbilt.edu/handle/1803/10359). [Vanderbilt News Article](https://news.vanderbilt.edu/2017/04/28/class-of-2017-marc-chen/).
