@@ -26,10 +26,7 @@ A common problem in ML finance research is the availability of asset return data
 #### Mapping transit accessibilty for the Nashville Metro Planning Authority 
 
 <p>
-    <img src="accessbility index small.png" width="300"  /><br> 
-    <em > 
-    
-    </em>
+    <img src="accessbility index small.png" width="300"  />
 </p>
 
 -  For my undergraduate economics thesis, I consulted for the Nashville MPO to help them understand the impact of transit access on labor market participation in the Nashville region. I leveraged the Bing Maps API to create an index of transit accessibility in urban areas. I then developed a segmented regression to analyze this index's impact on labor force participation rates within disparate income groups. [Thesis](https://ir.vanderbilt.edu/handle/1803/10359). [Vanderbilt University News Article](https://news.vanderbilt.edu/2017/04/28/class-of-2017-marc-chen/).
