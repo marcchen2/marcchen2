@@ -17,7 +17,7 @@
 </em>
 </p>
 
-A common problem in ML finance research is the availability of asset return data. The single realized historical path is insufficient for robust training of ML investment recommendation models. It is therefore necessary to generate additional time series data with similar statistical properties as real assets' return paths. One of the methods most widely accepted to be the gold standard by finance practioners is stationary block bootstrapping (Patton et al., 2009) of historical return data. This repo implements the method in Python and Numpy (PyTorch version forthcoming). This tool was implemented as part of a larger ML pipeline I implemented to create optimal portfolio management strategies for my Masters research.
+A common problem in ML finance research is the availability of asset return data. The single realized historical path is insufficient for robust training of ML investment recommendation models. It is therefore necessary to generate additional time series data with similar statistical properties as real assets' return paths. One of the methods most widely accepted to be the gold standard by finance practioners is stationary block bootstrapping (Patton et al., 2009) of historical return data. This repo implements the method in Python and Numpy (PyTorch version forthcoming). This tool was part of an end-to-end ML framework I implemented to create optimal portfolio management strategies for my Masters research.
 
 
 #### De-noising genomic sequencing data with Residual Networks
