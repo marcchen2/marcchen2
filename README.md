@@ -1,8 +1,8 @@
 ### Hello! I'm Marc Chen. 
 
 - I'm currently a visiting ML researcher at the University of Waterloo, where I support the computational finance research of Profs. [Yuying Li](https://cs.uwaterloo.ca/~yuying/) and [Peter Forsyth](https://cs.uwaterloo.ca/~paforsyt/).
-- I recently graduated from uWaterloo with a Master of Mathematics in Data Science, and completed my thesis, titled ["A Robust NN Approach to Optimal Decumulation and Factor Investing"](https://uwspace.uwaterloo.ca/handle/10012/19874). I wrote an [article](/mmath_summary.pdf) that summarizes this research.
-- My co-authored ML finance research has been submitted to the Journal of Applied Mathematics and Computation, and is available [as a pre-print](https://arxiv.org/abs/2306.10582). 
+- I recently graduated from uWaterloo with a Master of Mathematics in Data Science, and completed my [thesis](https://uwspace.uwaterloo.ca/handle/10012/19874), which develops a robust RNN model to solve for optimal strategies in portfolio and risk management. I wrote a short [article](/mmath_summary.pdf) that summarizes this research.
+- My co-authored ML finance research has been submitted to the Journal of Applied Mathematics and Computation, and is available as a [pre-print](https://arxiv.org/abs/2306.10582). 
 - On this personal Github, I share select data science projects from outside my professional work.
 
 ### Highlighted Projects:
