@@ -12,7 +12,7 @@
 
 
 <p>
-    <img src="geargleaner_logo.png" width="300"  /><br> 
+    <img src="geargleaner_logo.png" width="150"  /><br> 
 </em>
 </p>
 
