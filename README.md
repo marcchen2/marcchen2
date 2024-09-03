@@ -8,6 +8,18 @@
 
 ### Highlighted Projects:
 
+#### [Gear Gleaner](https://geargleaner.com)  
+
+
+<p>
+    <img src="gleargleaner_logo.png" width="300"  /><br> 
+</em>
+</p>
+
+Gear Gleaner helps users discover the hidden treasure on Reddit's buy/sell groups for all kinds of items like PC hardware, hiking gear, etc. 
+It is a Django webapp that leverages LLMs to aggregate reddit posts and parse them into a standardized database, allowing users to easily browse and search items. 
+
+
 #### [Market Data Bootstrapper](https://github.com/marcchen2/market_data_bootstrap/)  
 
 
