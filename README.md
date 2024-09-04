@@ -7,6 +7,7 @@
 - On this personal Github, I share select data science projects from outside my professional work.
 
 ### Highlighted Projects:
+
 #### [Gear Gleaner](https://geargleaner.com)  
 
 | <img src="geargleaner_logo.png" width="150" /> | Gear Gleaner helps users discover the hidden treasure on Reddit's buy/sell groups for all kinds of items like PC hardware, hiking gear, etc. It is a Django webapp that leverages LLMs to aggregate reddit posts and parse them into a standardized database, allowing users to easily browse and search items. |
@@ -21,4 +22,3 @@
 
 | <img src="accessbility index small.png" width="300" /> | For my undergraduate economics thesis, I consulted for the Nashville MPO to help them understand the impact of transit access on labor market participation in the Nashville region. I leveraged the Bing Maps API to create an index of transit accessibility in urban areas. I then developed a segmented regression to analyze this index's impact on labor force participation rates within disparate income groups. [Thesis](https://ir.vanderbilt.edu/handle/1803/10359). [Vanderbilt University News Article](https://news.vanderbilt.edu/2017/04/28/class-of-2017-marc-chen/). |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
