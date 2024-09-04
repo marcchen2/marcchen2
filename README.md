@@ -8,17 +8,22 @@
 
 ### Highlighted Projects:
 
-#### [Gear Gleaner](https://geargleaner.com)  
+#### [Gear Gleaner](https://geargleaner.com)
 
-| <img src="geargleaner_logo.png" width="150" /> | Gear Gleaner helps users discover the hidden treasure on Reddit's buy/sell groups for all kinds of items like PC hardware, hiking gear, etc. It is a Django webapp that leverages LLMs to aggregate reddit posts and parse them into a standardized database, allowing users to easily browse and search items. |
-|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<img src="geargleaner_logo.png" width="150" style="float: left; margin-right: 20px;" />
 
-#### [Market Data Bootstrapper](https://github.com/marcchen2/market_data_bootstrap/)  
+Gear Gleaner helps users discover the hidden treasure on Reddit's buy/sell groups for all kinds of items like PC hardware, hiking gear, etc. It is a Django webapp that leverages LLMs to aggregate reddit posts and parse them into a standardized database, allowing users to easily browse and search items.
 
-| <img src="block_bootstrap.png" width="300" /><br><em>Diagram credit to <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131111">El Anbari, Abeer, and Ptitsyn (2015)</a></em> | A common problem in ML finance research is the availability of asset return data. It is often necessary to generate synthetic time series data with similar statistical properties as the historical market for training and rigorous strategy testing. One of the methods most widely accepted to be the gold standard by finance practitioners is stationary block bootstrapping (Patton et al., 2009) of historical return data. This tool was implemented as part of a larger ML framework I implemented to create optimal portfolio management strategies for my Masters research. |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+#### [Market Data Bootstrapper](https://github.com/marcchen2/market_data_bootstrap/)
 
-#### Mapping transit accessibilty for the Nashville Metro Planning Authority  
+<img src="block_bootstrap.png" width="300" style="float: left; margin-right: 20px;" />
 
-| <img src="accessbility index small.png" width="300" /> | For my undergraduate economics thesis, I consulted for the Nashville MPO to help them understand the impact of transit access on labor market participation in the Nashville region. I leveraged the Bing Maps API to create an index of transit accessibility in urban areas. I then developed a segmented regression to analyze this index's impact on labor force participation rates within disparate income groups. [Thesis](https://ir.vanderbilt.edu/handle/1803/10359). [Vanderbilt University News Article](https://news.vanderbilt.edu/2017/04/28/class-of-2017-marc-chen/). |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+A common problem in ML finance research is the availability of asset return data. It is often necessary to generate synthetic time series data with similar statistical properties as the historical market for training and rigorous strategy testing. One of the methods most widely accepted to be the gold standard by finance practioners is stationary block bootstrapping (Patton et al., 2009) of historical return data. This tool was implemented as part of a larger ML framework I implemented to create optimal portfolio management strategies for my Masters research.
+
+<em style="font-size: 0.8em;">Diagram credit to <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131111">El Anbari, Abeer, and Ptitsyn (2015)</a></em>
+
+#### Mapping transit accessibilty for the Nashville Metro Planning Authority
+
+<img src="accessbility index small.png" width="300" style="float: left; margin-right: 20px;" />
+
+For my undergraduate economics thesis, I consulted for the Nashville MPO to help them understand the impact of transit access on labor market participation in the Nashville region. I leveraged the Bing Maps API to create an index of transit accessibility in urban areas. I then developed a segmented regression to analyze this index's impact on labor force participation rates within disparate income groups. [Thesis](https://ir.vanderbilt.edu/handle/1803/10359). [Vanderbilt University News Article](https://news.vanderbilt.edu/2017/04/28/class-of-2017-marc-chen/).
