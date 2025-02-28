@@ -6,7 +6,10 @@
 - My co-authored ML finance research has been submitted to the Journal of Computational Finance, and is available as a [pre-print](https://arxiv.org/abs/2306.10582). 
 - On this personal Github, I share select data science projects from outside my professional work.
 
-### Highlighted Projects:
+### Highlighted Side Projects:
+
+#### [Yahtzee Q-Learning Agent](https://github.com/marcchen2/yahtzee_qlearning)
+This project implements a Deep Q-Network (DQN) agent to see if it can approach optimal Yahtzee play with a model-free approach. My implementation uses a dueling network to decompose the Q-value into state and action values, which is especially helpful in Yahtzee since it can learn the values in the large state space independent from the randomness of roll outcomes. My best model so far achieves a median score of 211 over 1000 games. The repo includes a gradio UI to observe the agent play, calculate Q-values, and calculate performance statistics. 
 
 #### [Gear Gleaner](https://geargleaner.com)
 
